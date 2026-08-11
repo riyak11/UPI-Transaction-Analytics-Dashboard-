@@ -20,7 +20,7 @@ To analyse UPI transaction data using Power BI to identify transaction trends, p
 - What are the peak hours for UPI transactions?
 
 ## Dashboard Interaction
-- <a href=" ">View Dashboard</a>
+- <a href="https://github.com/riyak11/UPI-Transaction-Analytics-Dashboard-/blob/main/Dashboard.png">View Dashboard</a>
 
 ## Process
 - Imported the 250K+ UPI transaction dataset into Power BI. 
