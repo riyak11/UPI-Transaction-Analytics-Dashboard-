@@ -31,8 +31,9 @@ To analyse UPI transaction data using Power BI to identify transaction trends, p
 - Added slicers for category, month/year, state, bank, and transaction type for dynamic filtering. 
 - Designed a one-page interactive dashboard with KPI cards, charts, slicers, and consistent formatting. 
 - Analysed the dashboard to identify transaction patterns, performance trends, and areas of potential improvement.
+
 ## Dashboard
-<img  />
+<img width="638" height="359" alt="Dashboard" src="https://github.com/user-attachments/assets/73dfe614-f583-4d03-a0e9-abd1b9ca9677" />
 
 ## Insights 
 - SBI is the leading bank, accounting for 34.8% of the total transaction value among the top 5 banks.
